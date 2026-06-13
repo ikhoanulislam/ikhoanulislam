@@ -84,4 +84,4 @@ Let's discuss web development, AI innovations, or engineering solutions!
 ---
 
 ### 👁️ Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=ikhoanul_islam&color=green&style=for-the-badge)
+![Visitor Count](https://profile-counter.glitch.me/IKHOANUL_ISLAM/count.svg)
