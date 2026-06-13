@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="350px%" width="100%" />
 </p>
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🎓 **Education:** Civil Engineering Student at **GSTU**
 - ⚙️ **Interests:** Engineering ➡️ Tech ➡️ Computer ➡️ Programming 🚀
