@@ -71,7 +71,7 @@ Let's discuss web development, AI innovations, or engineering solutions!
 
 - **LinkedIn:** https://linkedin.com/in/ikhoanulislam
 - **X (Twitter):** https://x.com/ikhoanul
-- **Email:** `ikhoanulislam.com`
+- **Email:** `ikhoanulislam@gmail.com`
 
 ---
 <p align="center"><i>"Consistency beats talent when talent doesn't work hard." — Let's build the future!</i> 🚀</p>
