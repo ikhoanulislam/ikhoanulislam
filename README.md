@@ -85,5 +85,5 @@ Let's discuss web development, AI innovations, or engineering solutions!
 
 ### ⚡ Quick Status
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=500&lines=Hi,+I'm+IKHOANUL+ISLAM!;Civil+Engineering+Student+@+GSTU;Learning+AI-Driven+Full+Stack+Engineering!;Building+the+Future+with+Code+and+AI...!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=500&lines=Hi,+I'm+IKHOANUL+ISLAM!;Civil+Engineering+Student+@+GSTU;Learning+AI-Driven+Full+Stack+Web+Engineering!;Building+the+Future+with+Code+and+AI...!" alt="Typing SVG" />
 </p>
