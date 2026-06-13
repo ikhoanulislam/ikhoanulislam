@@ -1,8 +1,8 @@
-# Hi, I'm Ikhwanul Islam! 👋
+# Hi, I'm IKHOANUL ISLAM! 👋
 
 ### 🚀 Aspiring AI-Driven Full-Stack Web Engineer
 
-I am a passionate Civil Engineering student at **Gopalganj Science and Technology University (BSMRSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I am currently pursuing an intensive, cutting-edge program in **AI-Driven Full Stack Web Engineering** to build smart, scalable, and modern production-level applications.
+I am a passionate Civil Engineering student at **Gopalganj Science and Technology University (GSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I am currently pursuing an intensive, cutting-edge program in **AI-Driven Full Stack Web Engineering** to build smart, scalable, and modern production-level applications.
 
 ---
 
@@ -69,9 +69,9 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
 
 Let's discuss web development, AI innovations, or engineering solutions!
 
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- **X (Twitter):** [x.com/YOUR_X_USERNAME](https://x.com/YOUR_X_USERNAME)
-- **Email:** `your.email@example.com`
+- **LinkedIn:** https://linkedin.com/in/ikhoanulislam
+- **X (Twitter):** https://x.com/ikhoanul
+- **Email:** `ikhoanulislam.com`
 
 ---
 <p align="center"><i>"Consistency beats talent when talent doesn't work hard." — Let's build the future!</i> 🚀</p>
