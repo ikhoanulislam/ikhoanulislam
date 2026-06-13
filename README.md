@@ -81,6 +81,13 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhoanulislam&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
+---
+
+### 🔥 GitHub Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKHOANUL_ISLAM&theme=radical" alt="GitHub Streak" />
+</p>
+
 ## 🤝 Connect with Me
 
 Let's discuss web development, AI innovations, or engineering solutions!
