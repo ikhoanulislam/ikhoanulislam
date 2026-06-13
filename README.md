@@ -80,3 +80,8 @@ Let's discuss web development, AI innovations, or engineering solutions!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+### 👁️ Profile Views
+![Visitor Count](https://profile-counter.glitch.me/ikhoanulislam/count.svg)
