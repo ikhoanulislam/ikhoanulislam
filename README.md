@@ -1,7 +1,7 @@
 # Hi, I'm IKHOANUL ISLAM! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="150px%" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="250px%" width="100%" />
 </p>
 
 ### 🚀 Aspiring AI-Driven Full-Stack Web Engineering
