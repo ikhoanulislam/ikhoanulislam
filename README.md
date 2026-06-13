@@ -1,8 +1,8 @@
-# Hi, I'm Ikhwanul Islam! 👋
+# Hi, I'm Ikhoanul Islam! 👋
 
 ### 🚀 Self-Taught Programmer & Aspiring AI-Driven Full-Stack Web Engineer
 
-I am a passionate Civil Engineering student at **Bangabandhu Sheikh Mujibur Rahman Science and Technology University (BSMRSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I love building smart, scalable, and modern web applications by leveraging the power of AI tools and full-stack technologies.
+I am a passionate Civil Engineering student at **Gopalganj Science and Technology University (GSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I love building smart, scalable, and modern web applications by leveraging the power of AI tools and full-stack technologies.
 
 ---
 
@@ -55,8 +55,8 @@ I have officially embarked on an intensive **AI-Driven Full Stack Web Engineerin
 
 Let's discuss web development, tech innovations, or engineering solutions!
 
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/ikhoanulislam)
-- **X (Twitter):** [x.com/YOUR_X_USERNAME](https://x.com/ikhoanul)
+- **LinkedIn:** [linkedin.com/in/ikhoanulislam](https://linkedin.com/in/ikhoanulislam)
+- **X (Twitter):** [x.com/ikhoanul](https://x.com/ikhoanul)
 - **Email:** `ikhoanulislam@gmail.com`
 
 ---
