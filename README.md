@@ -1,4 +1,4 @@
-# Hi, I'm Ikhoanul Islam! 👋
+# Hi, I'm IKHOANUL ISLAM! 👋
 
 ### 🚀 Self-Taught Programmer & Aspiring AI-Driven Full-Stack Web Engineer
 
@@ -9,7 +9,7 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
 ## 📅 My Current Journey (10-Month Milestone)
 I have officially embarked on an intensive **AI-Driven Full Stack Web Engineering** program. 
 - **Phase 1 (Months 1-7):** Master Frontend, Backend, Database Architecture, and AI Integration.
-- **Phase 2 (Months 8-10):** Rigorous Job Placement Preparation and Production-Level Projects.
+- **Phase 2 (Months 2/3):** Rigorous Job Placement Preparation and Production-Level Projects.
 
 *I am practicing "Learn in Public" — committing code daily and sharing my weekly progress!* 🎯
 
