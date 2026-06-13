@@ -83,5 +83,5 @@ Let's discuss web development, AI innovations, or engineering solutions!
 
 ---
 
-### 👁️ Profile Views
-![Visitor Count](https://profile-counter.glitch.me/ikhoanulislam/count.svg)
+### 💡 Daily Coding Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
