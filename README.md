@@ -83,5 +83,7 @@ Let's discuss web development, AI innovations, or engineering solutions!
 
 ---
 
-### 💡 Daily Coding Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+### ⚡ Quick Status
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Learning+Full+Stack+Development...;Building+My+Future+with+AI...;Civil+Engineer+in+the+Making!" alt="Typing SVG" />
+</p>
