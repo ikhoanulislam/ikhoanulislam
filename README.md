@@ -4,6 +4,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="350px%" width="100%" />
 </p>
 
+## 👨‍💻 About Me
+
+- 🎓 **Education:** Civil Engineering Student at **GSTU**
+- 🎯 **Current Focus:** Learning AI-Driven Full-Stack Web Engineering 🚀
+- ⚙️ **Interests:** Engineering Mechanics, Structural Analysis, and building smart web solutions with AI.
+- 📖 **Learning Style:** Independent learner who loves diving into online documentation and text-based resources.
+-
+
 ### 🚀 Aspiring AI-Driven Full-Stack Web Engineering
 
 I am a passionate Civil Engineering student at **Gopalganj Science and Technology University (GSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I am currently pursuing an intensive, cutting-edge program in **AI-Driven Full Stack Web Engineering** to build smart, scalable, and modern production-level applications.
