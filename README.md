@@ -1,5 +1,9 @@
 # Hi, I'm IKHOANUL ISLAM! 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Space&fontSize=40&animation=twinkling" alt="Header Banner" />
+</p>
+
 ### 🚀 Aspiring AI-Driven Full-Stack Web Engineering
 
 I am a passionate Civil Engineering student at **Gopalganj Science and Technology University (GSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I am currently pursuing an intensive, cutting-edge program in **AI-Driven Full Stack Web Engineering** to build smart, scalable, and modern production-level applications.
