@@ -3,13 +3,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="350px%" width="100%" />
 </p>
-
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** Civil Engineering Student at **GSTU**
-- 🎯 **Current Focus:** Learning AI-Driven Full-Stack Web Engineering 🚀
-- ⚙️ **Interests:** Engineering Mechanics, Structural Analysis, and building smart web solutions with AI.
-- 📖 **Learning Style:** Independent learner who loves diving into online documentation and text-based resources.
+- ⚙️ **Interests:** Engineering ➡️ Tech ➡️ Computer ➡️ Programming 🚀
+- 🎯 **Current Focus:** AI-Driven Full-Stack Web Engineering
+- 📖 **Learning Style:** Independent learner who prefers reading text resources, searching online, and doing experiments
 -
 
 ### 🚀 Aspiring AI-Driven Full-Stack Web Engineering
