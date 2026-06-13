@@ -1,6 +1,6 @@
 # Hi, I'm IKHOANUL ISLAM! 👋
 
-### 🚀 Aspiring AI-Driven Full-Stack Web Engineer
+### 🚀 Aspiring AI-Driven Full-Stack Web Engineering
 
 I am a passionate Civil Engineering student at **Gopalganj Science and Technology University (GSTU)**. Alongside my academic curriculum, I am deeply invested in the tech world. I am currently pursuing an intensive, cutting-edge program in **AI-Driven Full Stack Web Engineering** to build smart, scalable, and modern production-level applications.
 
