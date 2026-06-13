@@ -68,6 +68,14 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
 
 ---
 
+### 📊 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhoanulislam&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ikhoanulislam&show_icons=true&theme=radical" alt="Ikhoanul's GitHub Stats" width="48%"/>
@@ -75,12 +83,6 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
 
 ---
 
-### 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhoanulislam&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ### 🔥 GitHub Streak
 <p align="left">
