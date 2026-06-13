@@ -71,7 +71,6 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ikhoanulislam&show_icons=true&theme=radical" alt="Ikhoanul's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhoanulislam&theme=radical" alt="Ikhoanul's Streak Stats" width="48%"/>
 </p>
 
 ---
