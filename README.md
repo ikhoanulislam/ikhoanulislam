@@ -84,4 +84,4 @@ Let's discuss web development, AI innovations, or engineering solutions!
 ---
 
 ### 👁️ Profile Views
-![Visitor Count](https://profile-counter.glitch.me/IKHOANUL_ISLAM/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ikhoanulislam/count.svg)
