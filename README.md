@@ -69,10 +69,10 @@ I am a passionate Civil Engineering student at **Gopalganj Science and Technolog
 ---
 
 ### 📊 GitHub Stats
-[![Ikhoanul's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ikhoanul&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ikhoanul's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ikhoanul&show_icons=true&theme=dark)](https://github.com/ikhoanulislam/github-readme-stats)
 
 ### 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ikhoanul&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ikhoanul&layout=compact&theme=dark)](https://github.com/ikhoanulislam/github-readme-stats)
 
 ### 🔥 GitHub Streak
 <p align="left">
